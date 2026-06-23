@@ -1,0 +1,10 @@
+## .NET build outputs
+bin/
+obj/
+*.user
+.vs/
+*.suo
+
+## OS files
+.DS_Store
+Thumbs.db
